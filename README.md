@@ -4,8 +4,9 @@
 ## :boom: What is it all about?
 This project contains a sample set of bug demos for manual testers to help them for writing web applications and how bug priorities and severities define in order.
 
-## :bulb: Sample Bug Severirty and Priority List are Added For The Following:
+## :bulb: Sample Bug Severity and Priority List are Added For The Following:
 - Bug Demo.
+- Bug Demo -2.
 
 
 ## :question: Need Assistance?

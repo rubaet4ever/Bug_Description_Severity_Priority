@@ -1,4 +1,4 @@
-# Manual_Testing_Part-2
+# Bug_Description_Severity_Priority
 
 
 ## :boom: What is it all about?
